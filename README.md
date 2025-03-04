@@ -7,7 +7,7 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40" alt="Hi gif"/>
 </h1>
 
-<h3 align="center">Frontend developer from Russia <img src="https://cdn-icons-png.flaticon.com/512/330/330437.png" width="20" alt="Russian flag"/></h3>
+<h3 align="center">Frontend developer from Russia <img src="https://cdn-icons-png.flaticon.com/512/330/330437.png" width="30" alt="Russian flag"/></h3>
 
 <h2 align="center">🛠️ Tools</h2>
 
