@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Coding gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding gif"/>
 </div>
 
 <h1 align="center">
@@ -13,10 +13,10 @@
 
 <div align="center">
   <p>
-    <img src="https://img.icons8.com/color/48/000000/soccer-ball.png" width="20" alt="Football icon"/> Football fan - Chelsea FC supporter 💙
+    <img src="https://cdn-icons-png.flaticon.com/512/3097/3097008.png" width="20" alt="Football icon"/> Football fan - Chelsea FC supporter 💙
   </p>
   <p>
-    <img src="https://img.icons8.com/color/48/000000/ice-hockey.png" width="20" alt="Hockey icon"/> Hockey fan - Dynamo supporter ⚪🔵
+    <img src="https://img.icons8.com/color/48/000000/ice-hockey.png" width="20" alt="Hockey icon"/> Hockey fan - Dynamo Moscow supporter ⚪🔵
   </p>
   <p>
     <img src="https://img.icons8.com/color/48/000000/music.png" width="20" alt="Music icon"/> Music lover - Currently into UK artists: Central Cee, SL 🎵
