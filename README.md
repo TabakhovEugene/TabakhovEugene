@@ -8,8 +8,8 @@
 </h1>
 
 <h3 align="center">
-  <p style="vertical-align: 5px;">Frontend developer from Russia</p> 
-  <img src="https://cdn-icons-png.flaticon.com/512/330/330437.png" width="30" alt="Russian flag" style="vertical-align: -5px;"/>
+  <p style="">Frontend developer from Russia</p> 
+  <img src="https://cdn-icons-png.flaticon.com/512/330/330437.png" width="30" alt="Russian flag" style=""/>
 </h3>
 
 <h2 align="center">🛠️ Tools</h2>
