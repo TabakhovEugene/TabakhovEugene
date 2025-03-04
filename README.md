@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Evgeniy" alt="Typing SVG" />
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Hi gif"/>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40" alt="Hi gif"/>
 </h1>
 
 <h3 align="center">Frontend developer from Russia <img src="https://cdn-icons-png.flaticon.com/512/330/330437.png" width="20" alt="Russian flag"/></h3>
