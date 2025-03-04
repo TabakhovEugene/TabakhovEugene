@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  Frontend developer from Russia 
+  <p style="vertical-align: 5px;">Frontend developer from Russia</p> 
   <img src="https://cdn-icons-png.flaticon.com/512/330/330437.png" width="30" alt="Russian flag" style="vertical-align: -5px;"/>
 </h3>
 
