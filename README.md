@@ -13,7 +13,7 @@
 
 <div align="center">
   <p>
-    <img src="https://cdn-icons-png.flaticon.com/512/53/53283.png" width="20" alt="Football icon"/> Football fan - Chelsea FC supporter 💙
+    <img src="https://cdn-icons-png.flaticon.com/512/53/53283.png" width="18" alt="Football icon"/> Football fan - Chelsea FC supporter 💙
   </p>
   <p>
     <img src="https://img.icons8.com/color/48/000000/ice-hockey.png" width="20" alt="Hockey icon"/> Hockey fan - Dynamo Moscow supporter ⚪🔵
