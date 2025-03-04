@@ -9,7 +9,7 @@
 
 <h3 align="center">
   Frontend developer from Russia 
-  <img src="https://cdn-icons-png.flaticon.com/512/330/330437.png" width="30" alt="Russian flag" style="margin-top: 5px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/330/330437.png" width="30" alt="Russian flag" style="margin-top: 10px;"/>
 </h3>
 
 <h2 align="center">🛠️ Tools</h2>
