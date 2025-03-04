@@ -12,9 +12,11 @@
 <h2 align="center">🛠️ My Skills</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,typescript,nodejs" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,typescript,nodejs,redux,tailwind" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,vscode,webpack,figma,mongodb" />
+  <img src="https://skillicons.dev/icons?i=py,django,docker,postgres,figma,postman,redis" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=webstorm,pycharm,vscode,visualstudio" />
 </div>
 
 <h2 align="center">⚡ My Interests</h2>
