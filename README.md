@@ -9,7 +9,7 @@
 
 <h3 align="center">Frontend developer from Russia <img src="https://cdn-icons-png.flaticon.com/512/330/330437.png" width="20" alt="Russian flag"/></h3>
 
-<h2 align="center">🛠️ My Skills</h2>
+<h2 align="center">🛠️ Tools</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,vite,typescript,nodejs,redux,tailwind" />
@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=webstorm,pycharm,vscode,visualstudio" />
 </div>
 
-<h2 align="center">⚡ My Interests</h2>
+<h2 align="center">⚡ Interests</h2>
 
 <div align="center">
   <p>
@@ -33,7 +33,7 @@
   </p>
 </div>
 
-<h2 align="center">📫 Contact Me</h2>
+<h2 align="center">📫 Contact me</h2>
 
 <div align="center">
   <a href="https://t.me/eugene_tabakhov">
