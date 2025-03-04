@@ -9,10 +9,6 @@
 
 <h3 align="center">Frontend developer from Russia <img src="https://cdn-icons-png.flaticon.com/512/330/330437.png" width="20" alt="Russian flag"/></h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile views counter"/>
-</div>
-
 <h2 align="center">⚡ My Interests</h2>
 
 <div align="center">
@@ -39,14 +35,6 @@
   <a href="mailto:e.tabahov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="GitHub streak stats"/>
 </div>
 
 <!--
