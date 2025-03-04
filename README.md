@@ -9,6 +9,14 @@
 
 <h3 align="center">Frontend developer from Russia <img src="https://cdn-icons-png.flaticon.com/512/330/330437.png" width="20" alt="Russian flag"/></h3>
 
+<h2 align="center">🛠️ My Skills</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,typescript,nodejs" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,vscode,webpack,figma,mongodb" />
+</div>
+
 <h2 align="center">⚡ My Interests</h2>
 
 <div align="center">
